@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ziyear.zyapidoc</groupId>
+  <artifactId>zyapidoc-maven-plugin</artifactId>
+  <versioning>
+    <latest>1.1.1-SNAPSHOT</latest>
+    <versions>
+      <version>1.1.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220427064321</lastUpdated>
+  </versioning>
+</metadata>
